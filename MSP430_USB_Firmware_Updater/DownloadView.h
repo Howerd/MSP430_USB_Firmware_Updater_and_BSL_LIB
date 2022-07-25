@@ -328,7 +328,7 @@ namespace MSP430_USB_Firmware_Updater {
         this->label2->Name = L"label2";
         this->label2->Size = System::Drawing::Size(133, 26);
         this->label2->TabIndex = 5;
-        this->label2->Text = L"Hold the On key (\'|\') and\r\nclick on Upgrade Firmware";
+        this->label2->Text = L"Click on Upgrade Firmware";
         // 
         // progressBar
         // 
@@ -430,7 +430,7 @@ namespace MSP430_USB_Firmware_Updater {
         this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
         this->MaximizeBox = false;
         this->Name = L"DownloadView";
-        this->Text = L"MSP430 USB Firmware Upgrade Program";
+        this->Text = L"MSP430 USB Firmware Updater Program (VS2022) ";
         this->Load += gcnew System::EventHandler(this, &DownloadView::DownloadView_Load);
         this->groupBox1->ResumeLayout(false);
         this->groupBox1->PerformLayout();
