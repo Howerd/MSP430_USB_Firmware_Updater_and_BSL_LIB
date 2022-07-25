@@ -1,0 +1,1 @@
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_DLL\Debug\BSL430_DLL.dll

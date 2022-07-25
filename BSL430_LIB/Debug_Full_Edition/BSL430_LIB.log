@@ -1,0 +1,50 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  BSL430_LIB.cpp
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL430_LIB.cpp(78,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL430_LIB.cpp(100,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL430_LIB.cpp(206,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL430_LIB.cpp(212,19): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL430_LIB.cpp(232,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL430_LIB.cpp(244,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL430_LIB.cpp(250,23): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL430_LIB.cpp(395,19): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL430_LIB.cpp(506,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL430_LIB.cpp(512,19): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL430_LIB.cpp(530,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL430_LIB.cpp(542,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL430_LIB.cpp(548,21): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  TextFileIO.c
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\TextFileIO.c(64,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\TextFileIO.c(86,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\TextFileIO.c(241,50): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\TextFileIO.c(261,42): warning C4477: 'sscanf' : format string '%hx' requires an argument of type 'unsigned short *', but variadic argument 1 has type 'unsigned char *'
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\TextFileIO.c(261,42): message : consider using '%hhx' in the format string
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\TextFileIO.c(234,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\TextFileIO.c(249,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\TextFileIO.c(261,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CRC.c
+  BSL_USB_Protocol_5xx.c
+  BSL_UART_Protocol_ROM.c
+  BSL_UART_Protocol_5xx.c
+  BSL_IO_USB.c
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL_IO_USB.c(113,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  BSL_IO_UART.c
+  BSL_Commands_ROM.c
+  BSL_Commands_5xx.c
+  Generating Code...
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL_IO_UART.c(107): warning C4716: 'UART_initialize_BSL': must return a value
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\BSL_IO_UART.c(94): warning C4716: 'UART_initialize_BSL_5438': must return a value
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  HidDevice.c
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\HidDevice.c(157,11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\HidDevice.c(158,11): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\HidDevice.c(159,11): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\HidDevice.c(161,11): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\HidDevice.c(162,11): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\HidDevice.c(163,11): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\HidDevice.c(170,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\HidDevice.c(406,21): warning C4996: 'GetVersionExA': was declared deprecated
+R:\Microsoft\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1545,5): warning MSB8012: TargetPath(C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\MSP430_USB_Firmware_Updater\Debug_Full_Edition\BSL430_LIB.lib) does not match the Library's OutputFile property value (C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\MSP430_USB_Firmware_Updater\Debug_Full_Edition\BSL430.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+R:\Microsoft\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1547,5): warning MSB8012: TargetName(BSL430_LIB) does not match the Library's OutputFile property value (BSL430). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  BSL430_LIB.vcxproj -> C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\MSP430_USB_Firmware_Updater\Debug_Full_Edition\BSL430_LIB.lib

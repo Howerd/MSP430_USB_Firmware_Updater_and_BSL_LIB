@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BSL430_DLL", "BSL430_DLL.vcxproj", "{B313F1A6-351A-4921-A190-E322235A1D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Express_Edition|Win32 = Debug_Express_Edition|Win32
+		Debug_Full_Edition|Win32 = Debug_Full_Edition|Win32
+		Release_Express_Edition|Win32 = Release_Express_Edition|Win32
+		Release_Full_Edition|Win32 = Release_Full_Edition|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B313F1A6-351A-4921-A190-E322235A1D3D}.Debug_Express_Edition|Win32.ActiveCfg = Debug_Express_Edition|Win32
+		{B313F1A6-351A-4921-A190-E322235A1D3D}.Debug_Express_Edition|Win32.Build.0 = Debug_Express_Edition|Win32
+		{B313F1A6-351A-4921-A190-E322235A1D3D}.Debug_Full_Edition|Win32.ActiveCfg = Debug_Full_Edition|Win32
+		{B313F1A6-351A-4921-A190-E322235A1D3D}.Debug_Full_Edition|Win32.Build.0 = Debug_Full_Edition|Win32
+		{B313F1A6-351A-4921-A190-E322235A1D3D}.Release_Express_Edition|Win32.ActiveCfg = Release_Express_Edition|Win32
+		{B313F1A6-351A-4921-A190-E322235A1D3D}.Release_Express_Edition|Win32.Build.0 = Release_Express_Edition|Win32
+		{B313F1A6-351A-4921-A190-E322235A1D3D}.Release_Full_Edition|Win32.ActiveCfg = Release_Full_Edition|Win32
+		{B313F1A6-351A-4921-A190-E322235A1D3D}.Release_Full_Edition|Win32.Build.0 = Release_Full_Edition|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

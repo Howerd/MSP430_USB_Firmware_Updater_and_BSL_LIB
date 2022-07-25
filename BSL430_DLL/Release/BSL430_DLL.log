@@ -1,0 +1,22 @@
+﻿  BSL430_dll.cpp
+  BSL_Commands_5xx.c
+  BSL_Commands_ROM.c
+  BSL_IO_UART.c
+  BSL_IO_USB.c
+  BSL_UART_Protocol_5xx.c
+  BSL_UART_Protocol_ROM.c
+  BSL_USB_Protocol_5xx.c
+  CRC.c
+  crc32.c
+  TextFileIO.c
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_DLL\TextFileIO.c(366,9): warning C4101: 'required_number_of_linefeeds': unreferenced local variable
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_DLL\TextFileIO.c(369,18): warning C4101: 'FileCRC32': unreferenced local variable
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_DLL\TextFileIO.c(516,16): warning C4013: 'crcInit' undefined; assuming extern returning int
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_DLL\TextFileIO.c(517,28): warning C4013: 'crcFast' undefined; assuming extern returning int
+C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_DLL\TextFileIO.c(550,38): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  HidDevice.c
+R:\Microsoft\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\MSP430_USB_Firmware_Updater\Release\BSL430_DLL.dll) does not match the Linker's OutputFile property value (C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\MSP430_USB_Firmware_Updater\Release\BSL430.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+R:\Microsoft\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1365,5): warning MSB8012: TargetName(BSL430_DLL) does not match the Linker's OutputFile property value (BSL430). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\MSP430_USB_Firmware_Updater\Release\BSL430_LIB.lib and object C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\MSP430_USB_Firmware_Updater\Release\BSL430_LIB.exp
+  BSL430_DLL.vcxproj -> C:\ti\MSP430_USB_Firmware_Updater_and_BSL_LIB\MSP430_USB_Firmware_Updater\Release\BSL430_DLL.dll
