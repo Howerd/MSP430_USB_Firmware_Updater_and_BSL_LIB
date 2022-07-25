@@ -306,7 +306,7 @@ namespace MSP430_USB_Firmware_Updater {
         this->btnUpgrade->Name = L"btnUpgrade";
         this->btnUpgrade->Size = System::Drawing::Size(142, 63);
         this->btnUpgrade->TabIndex = 3;
-        this->btnUpgrade->Text = L"Upgrade Firmware";
+        this->btnUpgrade->Text = L"Update Firmware";
         this->btnUpgrade->UseVisualStyleBackColor = false;
         this->btnUpgrade->Click += gcnew System::EventHandler(this, &DownloadView::btnUpgrade_Click);
         this->btnUpgrade->MouseClick += gcnew System::Windows::Forms::MouseEventHandler(this, &DownloadView::btnUpgrade_MouseClick);
@@ -328,7 +328,7 @@ namespace MSP430_USB_Firmware_Updater {
         this->label2->Name = L"label2";
         this->label2->Size = System::Drawing::Size(133, 26);
         this->label2->TabIndex = 5;
-        this->label2->Text = L"Click on Upgrade Firmware";
+        this->label2->Text = L"Click on Update Firmware";
         // 
         // progressBar
         // 
@@ -379,7 +379,7 @@ namespace MSP430_USB_Firmware_Updater {
         this->groupBox3->Size = System::Drawing::Size(150, 79);
         this->groupBox3->TabIndex = 12;
         this->groupBox3->TabStop = false;
-        this->groupBox3->Text = L"3. Upgrade";
+        this->groupBox3->Text = L"3. Update";
         // 
         // buttonAbout
         // 
