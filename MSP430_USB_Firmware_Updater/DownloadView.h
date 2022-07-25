@@ -762,7 +762,7 @@ private: System::Void richTextBox1_TextChanged(System::Object^ sender, System::E
 private: System::Void webBrowser1_DocumentCompleted(System::Object^ sender, System::Windows::Forms::WebBrowserDocumentCompletedEventArgs^ e) {
 }
 private: System::Void button1_Click_1(System::Object^ sender, System::EventArgs^ e) {
-    System::Diagnostics::Process::Start("https://www.inventio.co.uk/msp430_usb_prog.html");
+    System::Diagnostics::Process::Start("https://www.inventio.co.uk/msp430_usb_updater.html");
 }
 };
 }

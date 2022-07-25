@@ -2,7 +2,7 @@ readme.txt for MSP430F5529_USB_Firmware_Updater_and_BSL_LIB
 
 This repo contains the source for the BSL_LIB library, and the MSP430F5529_USB_Firmware_Updater solution builds BSL_LIB.
 
-To build the solution, install Microsoft Visual Studio 2019 and double click on  MSP430_USB_Firmware_Updater.sln  in the
+To build the solution, install Microsoft Visual Studio 2022 and double click on  MSP430_USB_Firmware_Updater.sln  in the
  MSP430_USB_Firmware_Updater  folder. Then click on the green play button labeled "Local Windows Debugger".
 
 Link to the software download folder : https://www.inventio.co.uk/msp430_usb_updater.html
