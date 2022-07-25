@@ -1,18 +1,2 @@
-﻿  BSL430_lib.cpp
-  BSL_Commands_5xx.c
-  BSL_Commands_ROM.c
-  BSL_IO_UART.c
-  BSL_IO_USB.c
-  BSL_UART_Protocol_5xx.c
-  BSL_UART_Protocol_ROM.c
-  BSL_USB_Protocol_5xx.c
-  CRC.c
-  crc32.c
-  TextFileIO.c
-C:\GitHub\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\TextFileIO.c(517,16): warning C4013: 'crcInit' undefined; assuming extern returning int
-C:\GitHub\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\TextFileIO.c(518,28): warning C4013: 'crcFast' undefined; assuming extern returning int
-C:\GitHub\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\TextFileIO.c(551,38): warning C4018: '>=': signed/unsigned mismatch
-  Generating Code...
-  HidDevice.c
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1545,5): warning MSB8012: TargetPath(C:\GitHub\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\Debug\BSL430_LIB.lib) does not match the Library's OutputFile property value (C:\GitHub\MSP430_USB_Firmware_Updater_and_BSL_LIB\MSP430_USB_Firmware_Updater\Debug\BSL430_LIB.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1553,5): warning MSB8012: TargetPath(C:\GitHub\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\Debug\BSL430_LIB.lib) does not match the Library's OutputFile property value (C:\GitHub\MSP430_USB_Firmware_Updater_and_BSL_LIB\MSP430_USB_Firmware_Updater\Debug\BSL430_LIB.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
   BSL430_LIB.vcxproj -> C:\GitHub\MSP430_USB_Firmware_Updater_and_BSL_LIB\BSL430_LIB\Debug\BSL430_LIB.lib

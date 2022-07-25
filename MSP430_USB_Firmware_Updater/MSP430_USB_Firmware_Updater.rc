@@ -79,12 +79,12 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "TODO: <Company name>"
             VALUE "FileDescription", "TODO: <File description>"
-            VALUE "FileVersion", "1.0.0.1"
+            VALUE "FileVersion", "1.1.0.1"
             VALUE "InternalName", "MSP430_U.exe"
             VALUE "LegalCopyright", "Copyright (C) 2021"
             VALUE "OriginalFilename", "MSP430_U.exe"
             VALUE "ProductName", "TODO: <Product name>"
-            VALUE "ProductVersion", "1.0.0.1"
+            VALUE "ProductVersion", "1.1.0.1"
         END
     END
     BLOCK "VarFileInfo"

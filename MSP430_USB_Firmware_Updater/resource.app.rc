@@ -69,11 +69,11 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "Texas Instruments, Inc."
             VALUE "FileDescription", "MSP430 USB Firmware Upgrade Example"
-            VALUE "FileVersion", "1.0.0.0"
+            VALUE "FileVersion", "1.1.0.0"
             VALUE "InternalName", "MSP430_USB_Firmware_Updater.exe"
             VALUE "LegalCopyright", "Texas Instruments, Inc. Copyright (C) & Inventio Software 2021"
             VALUE "OriginalFilename", "MSP430_USB_Firmware_Updater.exe"
-            VALUE "ProductName", "MSP430 USB Firmware Upgrade Program"
+            VALUE "ProductName", "MSP430 USB Firmware Updater Program_"
             VALUE "ProductVersion", "0, 0, 0, 0"
         END
     END
